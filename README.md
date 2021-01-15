@@ -1,1 +1,1 @@
-# first-css-project
+# first-html-css-project
